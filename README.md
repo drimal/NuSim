@@ -1,2 +1,4 @@
 # NuSim
-Simulating Neutrino flux at SNS 
+Simulating Neutrino flux at SNS
+
+The Spallation Neutron Source (SNS) produces a large neutrino flux, with a well defined energy spectra, as a by-product of its regular operation. The neutrino flux with such well characterized energy spectra can provide highly desired sensitivity for neutrino oscillation and cross section exper- iments. A handful of such experiments plan to utilize these freely available neutrinos to investigate the neutrino cross section and search for sterile neutrinos. It is necessary to have a detailed un- derstanding of the neutrino flux and the neutron background rates at several locations near the SNS target area. To serve for this purpose, a Monte Carlo simulation package based on GEANT4 framework, was developed by the neutrino physics group at University of Florida. We studied sec- ondary charged meson and lepton production as well as their different decay modes. This document provides a general description of our simulation effort, and presents an estimate of the neutrino flux at different locations of interest near the SNS target.
